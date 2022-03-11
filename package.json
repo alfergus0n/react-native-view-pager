@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "deprecated-react-native-listview": "0.0.6",
+    "deprecated-react-native-listview": "0.0.7",
     "react-mixin": "3.1.1",
     "react-native-gesture-responder": "buildcom/react-native-gesture-responder#v0.2.0",
     "react-native-scroller": "buildcom/react-native-scroller#v0.0.6",
